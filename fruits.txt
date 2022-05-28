@@ -3,4 +3,6 @@ Kivi
 grapes
 banana
 mango
-peach 
+peach
+pineapple
+orange 
