@@ -1,4 +1,6 @@
 apple
 Kivi
+grapes
+orange
 mango
 peach 
